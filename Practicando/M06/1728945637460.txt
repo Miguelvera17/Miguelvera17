@@ -1,0 +1,16 @@
+Carpetas
+1
+2
+3
+Files
+1728945452875.txt
+1728945478367.txt
+1728945491359.txt
+1728945552347.txt
+1728945600096.txt
+1728945637460.txt
+creaBinaari.java
+creaCSV.java
+file.csv
+leeCSV.java
+ListFileContent.java
