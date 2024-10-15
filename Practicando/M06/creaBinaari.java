@@ -9,7 +9,7 @@ import java.io.IOException;
 public class creaBinaari {
     public static void main(String[] args) {
         String path = args[0];
-        String f1 = "C:\\Users\\migue\\Documents\\MediaTIC\\Practicando\\M06\\"+ "_" + System.currentTimeMillis() + ".dat";
+        String f1 = "C:\\Users\\migue\\Desktop\\DAM2\\M06\\Miguelvera17\\Practicando\\M06"+ "_" + System.currentTimeMillis() + ".dat";
         File file = new File(path);
         File file1 = new File(f1);
         String line;
