@@ -1,0 +1,10 @@
+<professors>
+    <professor>
+        <id>101</id>
+        <nom_prof>Rodolfo Villegas</nom_prof>
+    </professor>
+    <professor>
+        <id>102</id>
+        <nom_prof>Jose Sanchez</nom_prof>
+    </professor>
+</professors>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleats>
+     <empleat id="1">
+          <nomEmp>Pere Gil</nomEmp>
+          <dep>10</dep>
+          <salari>1200.0</salari>
+     </empleat>
+     <empleat id="2">
+          <nomEmp>Josep Lopez</nomEmp>
+          <dep>25</dep>
+          <salari>2300.25</salari>
+     </empleat>
+     <empleat id="3">
+          <nomEmp>Marti Garrido</nomEmp>
+          <dep>15</dep>
+          <salari>750.32</salari>
+     </empleat>
+</empleats>

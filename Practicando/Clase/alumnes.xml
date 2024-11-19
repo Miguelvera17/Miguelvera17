@@ -1,0 +1,17 @@
+<alumnes>
+    <alumne>
+        <id_alumne>1</id_alumne>
+        <nom_alumne>Juan Pérez</nom_alumne>
+        <id_professor>101</id_professor>
+    </alumne>
+    <alumne>
+        <id_alumne>2</id_alumne>
+        <nom_alumne>María López</nom_alumne>
+        <id_professor>102</id_professor>
+    </alumne>
+    <alumne>
+        <id_alumne>3</id_alumne>
+        <nom_alumne>Pedro Gómez</nom_alumne>
+        <id_professor>999</id_professor>
+    </alumne>
+</alumnes>
