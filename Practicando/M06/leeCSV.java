@@ -8,7 +8,7 @@ public class leeCSV {
         File file = new File(path);
         String line;
         try(BufferedReader reader = new BufferedReader(new FileReader(file));) {
-            String top = reader.readLine();
+            
             while ((line = reader.readLine()) != null) {
                 String[] datos = line.split(",");
                 System.out.println("IdProducte: " + datos[0]);
